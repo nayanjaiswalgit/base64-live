@@ -1,7 +1,24 @@
 {
-  "name": "base64-live",
+  "name": "base64-encoder-decoder",
   "version": "0.1.0",
+  "description": "A fast, secure, and privacy-first Base64 encoder and decoder web application built with Next.js 16, React 19, and TypeScript. Features real-time conversion, file upload support, conversion history, PWA capabilities with offline support, dark mode, and full WCAG 2.1 AA accessibility compliance. All conversions happen client-side in the browser - no data ever touches our servers.",
   "private": true,
+  "keywords": [
+    "base64",
+    "encoder",
+    "decoder",
+    "converter",
+    "nextjs",
+    "react",
+    "typescript",
+    "pwa",
+    "accessibility",
+    "wcag",
+    "privacy",
+    "offline-first"
+  ],
+  "author": "Nayan Jaiswal",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
